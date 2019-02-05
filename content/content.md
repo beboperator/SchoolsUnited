@@ -1,6 +1,6 @@
 # Content
 
-This document contains content (mostly HTML) used in the Blackbaud onMessage-based *Schools United* site.   
+This document contains content (mostly HTML) used in the Blackbaud onMessage-based *Schools United* site. If you're looking for images or other stuff and not code snippets like you see below, they're probably in the folder called `Assets`.
 
 ## Master Layout(s)
 
