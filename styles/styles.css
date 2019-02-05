@@ -1,0 +1,649 @@
+/*
+* Webfonts
+*/
+@font-face {
+    font-family: 'GT Walsheim Pro Trial';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/216313/circles.woff2) format('woff2');
+}
+
+/*
+** Header
+*/
+div#layout_row_0_0 {
+    background-color: #fff;
+    height: 114px;
+    position: fixed;
+}
+
+.header-logo img {
+    width: 240px;
+    margin: 26px auto 0;
+    display: block;
+}
+
+/*
+** Hero Header
+*/
+h1.sentence {
+    margin-top: 200px;
+    margin-bottom: 64px;
+    display: block;
+    max-width: 960px;
+    text-align: center;
+    color: #091d40;
+}
+
+/*
+** Hero CTA button
+*/
+button#hero-button {
+    display: block;
+    margin: 0 auto;
+    width: 232px;
+    height: 48px;
+    background: #8fc0ff;
+    border-radius: 45px;
+    border: none;
+    font-family: Charter, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: center;
+    color: #091d40;
+    margin-bottom: 144px;
+}
+
+/*
+** Hero Quote
+*/
+.style-69332 div.content-wrap {
+    font-family: Charter, Georgia, serif, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 61px;
+    font-size: 42px;
+    text-align: center;
+    color: #444444;
+    max-width: 960px;
+    display: block;
+    margin: 0 auto;
+}
+
+div#content_1812002 {
+    display: block;
+    margin: 0 auto;
+    padding: 160px 40px 120px;
+    background-color: #f5f5f5;
+}
+
+/*
+** Image 1
+*/
+div#content_1812071 {
+    background-color: #f5f5f5;
+}
+
+/*********************
+* TODO: better way to restrain these images
+**********************/
+.content.photo {
+    max-width: 960px;
+    margin: 0 auto;
+    display: block;
+}
+
+/*
+** Text 1
+*/
+/*
+* All Text
+*/
+h2 {
+    border-bottom: 1px solid #8fc0ff;
+    display: inline;
+    padding-bottom: 24px;
+}
+
+.h2-container {
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+div.p-text {
+    max-width: 725px;
+    margin: 0 auto;
+    display: block;
+}
+
+div.content.text>.content-wrap {
+    max-width: 960px;
+    display: block;
+    margin: 0 auto;
+    padding: 80px 20px 80px;
+}
+
+/*
+** Image 2
+*/
+div#content_1812073 {
+    background: #0a1f3f;
+    background: -moz-linear-gradient(top, #f5f5f5 0%, #f5f5f5 50%, #0a1f3f 50%, #0a1f3f 100%);
+    background: -webkit-linear-gradient(top, #f5f5f5 0%, #f5f5f5 50%, #0a1f3f 50%, #0a1f3f 100%);
+    background: linear-gradient(to bottom, #f5f5f5 0%, #f5f5f5 50%, #0a1f3f 50%, #0a1f3f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#0a1f3f', GradientType=0);
+}
+
+.image-2 {
+    max-width: 1200px;
+}
+
+/*
+** Text 2
+*/
+.text-2 {
+    padding: 144px 20px;
+}
+
+/*
+** Text 2 Buttons
+*/
+div.text-2-btns {
+    background-color: #0A1F3F;
+    display: block;
+    margin: 0 auto;
+    padding: 0px 16px 80px;
+    text-align: center;
+}
+
+button#text-2-button-1 {
+    display: inline-block;
+    width: 232px;
+    height: 48px;
+    background: #8fc0ff;
+    border: none;
+    border-radius: 45px;
+    font-family: Charter, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: center;
+    color: #091d40;
+    margin: 10px;
+}
+
+button#text-2-button-2 {
+    display: inline-block;
+    width: 232px;
+    height: 48px;
+    background: transparent;
+    border: 1px solid #F5F5F5;
+    border-radius: 45px;
+    font-family: Charter, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+/*
+** Events Image
+*/
+/* light grey on this whole section */
+div#page_row_114189_1 {
+    background-color: #f5f5f5;
+}
+
+.no-bullets li ul {
+    margin: 0;
+}
+
+/*
+** Events Text
+*/
+
+/*
+** Events Buttons
+*/
+div.event-btns {
+    background-color: #f5f5f5;
+    display: block;
+    margin: 0 auto;
+    padding: 0px 16px 80px;
+    text-align: center;
+}
+
+button#event-button-1 {
+    display: inline-block;
+    width: 232px;
+    height: 48px;
+    background: #091d40;
+    border-radius: 45px;
+    border: none;
+    font-family: Charter, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+button#event-button-2 {
+    display: inline-block;
+    width: 232px;
+    height: 48px;
+    background: transparent;
+    border: 1px solid #171717;
+    border-radius: 45px;
+    font-family: Charter, Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: center;
+    color: #171717;
+    margin: 10px;
+}
+
+/*
+** Email Section
+*/
+form {
+    max-width: 640px;
+    display: block;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    width: 70%;
+    height: 48px;
+    background: #f5f5f5;
+    border: 1px solid #f0f0f0;
+    border-radius: 30px 0 0 30px;
+}
+
+form>button {
+    width: 28%;
+    height: 52px;
+    background: #8dbfff;
+    color: #091d40;
+    border: 3px solid #8bbeff;
+    font-family: Charter, Georgia, serif;
+    border-radius: 0 30px 30px 0;
+}
+
+/*
+* Footer
+*/
+div#layout_region_3 {
+    padding: 54px 40px 64px;
+    margin-top: 144px;
+    color: #f5f5f5;
+    background-color: #0A1F3F;
+    font-family: GT Walsheim Pro Trial;
+    letter-spacing: 1px;
+}
+
+/*
+* Footer upright left-aligned wordmark
+*/
+/* div#layout_region_3::before .content .content-wrap:first-child {
+    content: "";
+    display:block;
+    height:125px;
+    width:125px;
+    background-size: 125px 125px;
+    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/216313/su-logo-upright.svg);
+    background-repeat: no-repeat;
+} */
+
+div#layout_region_3 .content .content-wrap ul li {
+    list-style: none;
+    line-height: 150%;
+}
+
+/*
+** Footer Links 1 & 2
+*/
+
+/*
+** Footer Links 3
+*/
+
+/*
+** Footer Logo
+*/
+div#layout_10510 {}
+
+/********************************
+** Media Queries
+********************************/
+
+/* Phones */
+
+@media (max-width: 767px) {
+
+    /*
+    * Header:
+    * - Hide first empty column that goes above logo on mobile
+    * - Resize header
+    * - Resize logo
+    */
+    div#layout_col_0_0_0 {
+        display: none;
+    }
+
+    div#layout_col_0_0_2 {
+        display: none;
+    }
+
+    div#layout_row_0_0 {
+        height: 64px;
+    }
+
+    .header-logo img {
+        width: 160px;
+        margin: 12px auto 0;
+    }
+
+    /*
+    * Hero Header
+    * - reposition text up on mobile
+    * - resize text on mobile
+    */
+    div#content_1807093 {
+        margin-top: 96px;
+    }
+
+    H1 {
+        font-size: 40px;
+    }
+
+    /*
+    * Hero Quote
+    * - reposition on mobile
+    * - resize on mobile
+    * - adjust padding on...yea..mobile again
+    */
+    .style-69332 div.content-wrap {
+        line-height: 36px;
+        font-size: 28px;
+    }
+
+    div#content_1812002 {
+        padding: 80px 40px;
+    }
+}
+
+/*
+* whole bunch of media queries to get the text rotating to stay centeredish. thanks obama.
+*/
+@media (max-width: 480px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+    }
+}
+
+@media (min-width: 481px) and (max-width: 600px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 720px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 721px) and (max-width: 870px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 75px;
+    }
+}
+
+@media (min-width: 871px) and (max-width: 960px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 86px;
+    }
+}
+
+@media (min-width: 961px) and (max-width: 1120px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 96px;
+    }
+}
+
+@media (min-width: 1121px) and (max-width: 1300px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 116px;
+    }
+}
+
+@media (min-width: 1301px) {
+    h1.sentence {
+        margin-left: 50%;
+        transform: translateX(-86%);
+        font-size: 136px;
+    }
+}
+
+/* Phablets */
+
+/* Other stuff */
+/*
+* Hide image album names
+*/
+h5.album-name {
+    display: none;
+}
+
+h6.title {
+    display: none;
+}
+
+figure {
+    margin: 0;
+}
+
+/*
+* Border around all the things
+*/
+body:before,
+body:after {
+    content: "";
+    position: fixed;
+    background: #fff;
+    left: 0;
+    right: 0;
+    height: 10px;
+}
+
+body:before {
+    top: 0;
+}
+
+body:after {
+    bottom: 0;
+}
+
+body {
+    border-left: 10px solid #fff;
+    border-right: 10px solid #fff;
+}
+
+/*
+* Rotating Hero Text Animation
+*/
+/*Vertical Sliding*/
+.slidingVertical {
+    display: inline;
+    font-family: Charter, Georgia, serif;
+}
+
+.slidingVertical span {
+    animation: topToBottom 10s linear infinite 0s;
+    -ms-animation: topToBottom 10s linear infinite 0s;
+    -webkit-animation: topToBottom 10s linear infinite 0s;
+    color: #8dbfff;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+}
+
+.slidingVertical span:nth-child(1) {
+    animation-delay: 0s;
+    -ms-animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+}
+
+.slidingVertical span:nth-child(2) {
+    animation-delay: 2.5s;
+    -ms-animation-delay: 2.5s;
+    -webkit-animation-delay: 2.5s;
+}
+
+.slidingVertical span:nth-child(3) {
+    animation-delay: 5s;
+    -ms-animation-delay: 5s;
+    -webkit-animation-delay: 5s;
+}
+
+.slidingVertical span:nth-child(4) {
+    animation-delay: 7.5s;
+    -ms-animation-delay: 7.5s;
+    -webkit-animation-delay: 7.5s;
+}
+
+/*
+* can re-enable this or add more for additional rotating words in hero text
+.slidingVertical span:nth-child(5){
+	animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	-webkit-animation-delay: 10s;
+}*/
+
+
+/*topToBottom Animation*/
+@-moz-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -moz-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -moz-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -moz-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -moz-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -webkit-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -webkit-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -webkit-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -webkit-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-ms-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -ms-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -ms-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -ms-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -ms-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
