@@ -1,5 +1,5 @@
 # Schools United
-This repo contains styles, scripts and other code for [SchoolsUnited.city](https://SchoolsUnited.city)
+This repo contains styles, scripts, other code and assets used on the [SchoolsUnited.city](https://SchoolsUnited.city) website project.
 
 ## Things you can do here
 - Find code snippets in the `Content` folder to use in Blackbaud onMessage `Page Content` & `Master Layouts` if something breaks 😱.
