@@ -72,7 +72,7 @@ button#hero-button {
     margin: 0 auto;
 }
 
-div#content_1812002 {
+div#content_1812002, div#content_1813650 {
     display: block;
     margin: 0 auto;
     padding: 160px 40px 120px;
@@ -82,7 +82,7 @@ div#content_1812002 {
 /*
 ** Image 1
 */
-div#content_1812071 {
+div#content_1812071, div#content_1813651 {
     background-color: #f5f5f5;
 }
 
@@ -128,7 +128,7 @@ div.content.text>.content-wrap {
 /*
 ** Image 2
 */
-div#content_1812073 {
+div#content_1812073, div#content_1813653 {
     background: #0a1f3f;
     background: -moz-linear-gradient(top, #f5f5f5 0%, #f5f5f5 50%, #0a1f3f 50%, #0a1f3f 100%);
     background: -webkit-linear-gradient(top, #f5f5f5 0%, #f5f5f5 50%, #0a1f3f 50%, #0a1f3f 100%);
@@ -286,7 +286,7 @@ form>button {
 div#layout_region_3 {
     padding: 54px 40px 64px;
     margin-top: 144px;
-    color: #f5f5f5;
+    color: #8bbeff;
     background-color: #0A1F3F;
     font-family: GT Walsheim Pro Trial;
     letter-spacing: 1px;
