@@ -7,4 +7,4 @@ This repo contains styles, scripts, other code and assets used on the [SchoolsUn
 3. Download fonts* or images from the `Assets` folder to use somewhere 🖼🔡.
 4. Perhaps something else I left out 🤷‍♂️.
 
-* The font included in this project is Grilli Type's *GT Walsheim Pro Trial* for testing so be cool & don't use it in production 🤙.
+`* The font included in this project is Grilli Type's *GT Walsheim Pro Trial* for testing so be cool & don't use it in production 🤙.`
