@@ -1,0 +1,42 @@
+/************************
+*************************
+** !IMPORTANT! PLEASE READ THIS:
+** THESE ARE THE STYLES THAT HAVE BEEN ADDED IN BLACKBAUD THROUGH `STYLE > BLOCK > DEFAULT/TEXT` AREAS
+** THESE ARE NOT TO BE INSERTED INTO `EDIT CSS` AREA BUT SERVE ONLY AS A BACKUP/REFEERENCE FOR BLACKBAUD STYLES IN USE
+*************************
+*************************/
+.body { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 27px;font-size: 18px;text-align: justify;color: #171717; }
+H1 { font-family: GT Walsheim Pro Trial, sans-serif;font-size: 116px;font-weight: normal; }
+H2 { font-family: GT Walsheim Pro Trial, sans-serif;font-size: 26px;text-transform: uppercase;font-weight: normal; }
+H3 { font-family: GT Walsheim Pro Trial, sans-serif;font-style: normal;font-weight: normal;line-height: normal;font-size: 46px;color: #171717; }
+H4 { font-family: GT Walsheim Pro Trial;font-style: normal;font-weight: normal;line-height: 22px;font-size: 16px;color: #171717; }
+H5 { font-family: sans-serif; }
+H6 { font-family: sans-serif; }
+A { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 27px;font-size: 16px;text-align: justify;color: #171717; }
+.button { font-family: Georgia, serif; }
+.style-69270 H1 { text-align: center; }
+.style-69270 H2 { font-family: GT Walsheim Pro Trial, sans-serif;font-style: normal;font-weight: normal;line-height: 120px;font-size: 116px;text-align: center;color: #171717;margin: 160px 0 80px; }
+.style-69270 H3 { text-align: center; }
+.style-69270 { max-width: 1200px;margin: 0 auto; }
+.style-69270 div.content-wrap { font-family: Charter;font-style: normal;font-weight: normal;line-height: 27px;font-size: 16px;color: #171717; }
+.style-69332 div.content-wrap { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 61px;font-size: 42px;text-align: center;color: #444444; }
+.style-69334 H1 { color: #ffffff;text-align: center; }
+.style-69334 H2 { text-align: center;color: #ffffff; }
+.style-69334 H3 { color: #ffffff;text-align: center;margin-bottom: 64px; }
+.style-69334 H4 { color: #ffffff; }
+.style-69334 H5 { color: #ffffff; }
+.style-69334 H6 { color: #ffffff; }
+.style-69334 A { font-family: Charter;font-style: normal;font-weight: normal;line-height: 27px;font-size: 16px;color: #F5F5F5; }
+.style-69334 A:hover { text-decoration: underline; }
+.style-69334 .button { font-family: Charter;font-style: normal;font-weight: normal;line-height: 27px;font-size: 16px;color: #F5F5F5; }
+.style-69334 { background: #0A1F3F; }
+.style-69334 div.content-wrap { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 30px;font-size: 20px;color: #F5F5F5;text-align: left;letter-spacing: .5px; }
+.style-69333 H2 { text-align: center; }
+.style-69333 H3 { text-align: center;margin-bottom: 64px; }
+.style-69333 A { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 25px;font-size: 16px;text-align: center;color: #171717; }
+.style-69333 A:hover { text-decoration: underline; }
+.style-69333 .button { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 25px;font-size: 16px;text-align: center;color: #171717; }
+.style-69333 { background: #F5F5F5; }
+.style-69333 div.content-wrap { font-family: Charter, Georgia, serif;font-style: normal;font-weight: normal;line-height: 30px;font-size: 20px;text-align: left;letter-spacing: .5px;color: #171717; }
+.style-69271 { font-size: 4rem; }
+.style-69474 { background-color: #8FC0FF; }
